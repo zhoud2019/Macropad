@@ -1,6 +1,6 @@
 # Macropad
 
-A compact 9-key macropad with 2 rotary encoders, programmed with QMK firmware. I built this project to challenge myself and gain hands-on experience with PCB design, firmware configuration, and hardware assembly — serving as a foundation for more advanced future projects, such as designing a miniature fan in the shape of a plane engine.
+A compact 9-key macropad with 2 rotary encoders, programmed with QMK firmware. I built this project to challenge myself and gain hands-on experience with PCB design, firmware configuration, and hardware assembly, serving as a foundation for more advanced future projects, such as designing a miniature fan in the shape of a plane engine.
 
 The macropad is designed as a programmable input device suitable for shortcuts, media control, and custom workflows.
 
